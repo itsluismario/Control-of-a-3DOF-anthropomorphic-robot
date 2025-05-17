@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://static.platzi.com/media/achievements/badges-fundamentos-docker-c1277cec-3ef7-4557-9f83-2649bec9fe70.png" target="_blank">
-    <img alt="Industrial Robotics" src="https://static.platzi.com/media/achievements/badges-fundamentos-docker-c1277cec-3ef7-4557-9f83-2649bec9fe70.png" width="60" />
+  <a href="https://static.platzi.com/media/achievements/badge-analista-negocios-rpa-bcfb39a9-8fc2-48ce-b3c8-d789beaf70e8.png" target="_blank">
+    <img alt="Industrial Robotics" src="https://static.platzi.com/media/achievements/badge-analista-negocios-rpa-bcfb39a9-8fc2-48ce-b3c8-d789beaf70e8.png" width="60" />
   </a>
 </p>
 <h1 align="center">
@@ -48,7 +48,7 @@ The Inverse Geometric Model computes the required joint angles to position the e
 #### 📈 TRAJECTORY PLANNING
 The trajectory planning system allows the robot to follow predefined paths like straight lines and circles by using parametric equations and numerical approximation through the Jacobian matrix.
 
- <img src="https://miro.medium.com/v2/resize:fit:1079/1*3ds-PdxGGMN-ZzJH95_lsA.png" alt="Robot arm illustration" width="500" height="200">
+ <img src="https://miro.medium.com/v2/resize:fit:1079/1*3ds-PdxGGMN-ZzJH95_lsA.png" alt="Anthropomorphic robot arm" width="500" height="200">
 
 ## 🛠️ Implementation details
 
