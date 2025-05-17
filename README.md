@@ -48,7 +48,7 @@ The Inverse Geometric Model computes the required joint angles to position the e
 #### 📈 TRAJECTORY PLANNING
 The trajectory planning system allows the robot to follow predefined paths like straight lines and circles by using parametric equations and numerical approximation through the Jacobian matrix.
 
- <img src="https://miro.medium.com/v2/resize:fit:1079/1*3ds-PdxGGMN-ZzJH95_lsA.png" alt="Anthropomorphic robot arm" width="500" height="200">
+ <img src="https://github.com/itsluismario/Control-of-a-3DOF-anthropomorphic-robot/blob/main/diagram-of-anthropomorphic-robot-arm.png" alt="Anthropomorphic robot arm" width="500" height="200">
 
 ## 🛠️ Implementation details
 
